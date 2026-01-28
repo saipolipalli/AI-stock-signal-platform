@@ -137,5 +137,5 @@ Layer 1: ML Models calculate probability.
 Layer 2: Technical Rules validate the trend.
 Signal Generation: A final BUY/SELL/HOLD signal is generated with a Confidence Score.
 Display: Results are shown on the Dashboard and sent via Email (if configured).
-Built by: Aman (DE Team)
+Built by: Batch 8-9-10 of Infosys Springboard Virtual Internship Program
 License: MIT
