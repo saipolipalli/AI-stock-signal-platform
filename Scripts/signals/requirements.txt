@@ -1,0 +1,11 @@
+joblib
+yfinance
+pandas
+fastapi
+pydantic
+uvicorn
+xgboost
+scikit-learn
+feedparser
+pydantic
+requests
